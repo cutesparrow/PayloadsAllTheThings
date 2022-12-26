@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology and Resources/Windows - Mimikatz.md",
+                "file": "OSCP Related/README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Persistence",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology and Resources/Windows - Mimikatz.md",
+                "file": "OSCP Related/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology and Resources/Windows - Mimikatz.md",
+                "file": "OSCP Related/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology and Resources/Windows - Mimikatz.md"
+                "file": "OSCP Related/README.md"
               }
             }
           }
@@ -150,15 +151,15 @@
   },
   "active": "878da0f65f8e6132",
   "lastOpenFiles": [
+    "Methodology and Resources/Linux - Persistence.md",
+    "OSCP Related/README.md",
+    "Methodology and Resources/Reverse Shell Cheatsheet.md",
+    "Methodology and Resources/Windows - Mimikatz.md",
     "Methodology and Resources/Metasploit - Cheatsheet.md",
     "Methodology and Resources/Active Directory Attack.md",
     "Server Side Template Injection/README.md",
     "README.md",
-    "OSCP Related/README.md",
     "CSRF Injection/README.md",
-    "CSRF Injection/Images/CSRF-CheatSheet.png",
-    "Dependency Confusion/README.md",
-    "Directory Traversal/README.md",
-    "CONTRIBUTING.md"
+    "CSRF Injection/Images/CSRF-CheatSheet.png"
   ]
 }
