@@ -1,0 +1,11 @@
+{
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
+}
