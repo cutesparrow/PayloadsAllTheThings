@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e74e499cf725d34a",
+  "active": "fa1dd9770c870841",
   "lastOpenFiles": [
+    "OSCP Related/README.md",
     "CSRF Injection/README.md",
     "CSRF Injection/Images/CSRF-CheatSheet.png",
     "Dependency Confusion/README.md",
@@ -157,7 +158,6 @@
     "CONTRIBUTING.md",
     "2022-12-26.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "OSCP Related/README.md",
     "_template_vuln/README.md"
   ]
 }
