@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "showViewHeader": true,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Blue Topaz"
 }
