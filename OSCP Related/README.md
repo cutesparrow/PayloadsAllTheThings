@@ -12,6 +12,11 @@ _Windows_
  echo. & echo. & echo whoami: & whoami 2> nul & echo %username% 2> nul & echo. & echo Hostname: & hostname & echo. & ipconfig /all & echo. & echo proof.txt: &  type "C:\Documents and Settings\Administrator\Desktop\proof.txt"
 ```
 
+
+# Privilege Escalation
+
+tips1: pspy发现的定时任务命令，可以用grep搜索一下，可能隐藏在某个py文件中
+
 # Persistence
 
 _Crontab_
