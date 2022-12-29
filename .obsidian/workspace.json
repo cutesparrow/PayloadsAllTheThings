@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
+                "file": "Methodology and Resources/Network Pivoting Techniques.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linpeas",
+                "query": "\"port forward\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
+                "file": "Methodology and Resources/Network Pivoting Techniques.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
+                "file": "Methodology and Resources/Network Pivoting Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology and Resources/Linux - Privilege Escalation.md"
+                "file": "Methodology and Resources/Network Pivoting Techniques.md"
               }
             }
           }
@@ -164,11 +164,11 @@
   },
   "active": "878da0f65f8e6132",
   "lastOpenFiles": [
+    "Methodology and Resources/Active Directory Attack.md",
+    "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/README.md",
     "Methodology and Resources/Windows - Privilege Escalation.md",
-    "Methodology and Resources/Active Directory Attack.md",
     "File Inclusion/README.md",
-    "Methodology and Resources/Linux - Privilege Escalation.md",
     "CONTRIBUTING.md",
     "Methodology and Resources/Network Discovery.md",
     "OSCP Related/Buffer Overflow Cheatsheet.md",
