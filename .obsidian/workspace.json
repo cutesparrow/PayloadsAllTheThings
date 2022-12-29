@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/Buffer Overflow Cheatsheet.md",
+                "file": "Methodology and Resources/Network Discovery.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap udp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/Buffer Overflow Cheatsheet.md",
+                "file": "Methodology and Resources/Network Discovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/Buffer Overflow Cheatsheet.md",
+                "file": "Methodology and Resources/Network Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/Buffer Overflow Cheatsheet.md"
+                "file": "Methodology and Resources/Network Discovery.md"
               }
             }
           }
@@ -164,15 +165,15 @@
   },
   "active": "af7af10506d537fd",
   "lastOpenFiles": [
+    "Methodology and Resources/Linux - Privilege Escalation.md",
+    "OSCP Related/Buffer Overflow Cheatsheet.md",
     "File Inclusion/README.md",
     "Server Side Request Forgery/README.md",
     "OSCP Related/README.md",
-    "Methodology and Resources/Linux - Privilege Escalation.md",
     "Methodology and Resources/Linux - Persistence.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
     "Methodology and Resources/Windows - Mimikatz.md",
     "Methodology and Resources/Metasploit - Cheatsheet.md",
-    "Methodology and Resources/Active Directory Attack.md",
-    "Server Side Template Injection/README.md"
+    "Methodology and Resources/Active Directory Attack.md"
   ]
 }
