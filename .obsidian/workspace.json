@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: oscp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/README.md"
+                "file": "OSCP Related/cheatsheet .md"
               }
             }
           }
@@ -162,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0249251c1f703db8",
+  "active": "878da0f65f8e6132",
   "lastOpenFiles": [
+    "Methodology and Resources/Linux - Persistence.md",
+    "Server Side Request Forgery/README.md",
+    "Methodology and Resources/Linux - Privilege Escalation.md",
+    "OSCP Related/README.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
     "Methodology and Resources/Network Pivoting Techniques.md",
     "Methodology and Resources/Active Directory Attack.md",
-    "Methodology and Resources/Linux - Privilege Escalation.md",
-    "OSCP Related/README.md",
     "Methodology and Resources/Windows - Privilege Escalation.md",
     "File Inclusion/README.md",
-    "CONTRIBUTING.md",
-    "Methodology and Resources/Network Discovery.md",
-    "OSCP Related/Buffer Overflow Cheatsheet.md"
+    "CONTRIBUTING.md"
   ]
 }
