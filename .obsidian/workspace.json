@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology and Resources/Network Pivoting Techniques.md",
+                "file": "Methodology and Resources/Reverse Shell Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"port forward\"",
+                "query": "stty",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology and Resources/Network Pivoting Techniques.md",
+                "file": "Methodology and Resources/Reverse Shell Cheatsheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology and Resources/Network Pivoting Techniques.md",
+                "file": "Methodology and Resources/Reverse Shell Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology and Resources/Network Pivoting Techniques.md"
+                "file": "Methodology and Resources/Reverse Shell Cheatsheet.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "878da0f65f8e6132",
   "lastOpenFiles": [
+    "Methodology and Resources/Network Pivoting Techniques.md",
     "Methodology and Resources/Active Directory Attack.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/README.md",
@@ -172,7 +173,6 @@
     "CONTRIBUTING.md",
     "Methodology and Resources/Network Discovery.md",
     "OSCP Related/Buffer Overflow Cheatsheet.md",
-    "Server Side Request Forgery/README.md",
-    "Methodology and Resources/Linux - Persistence.md"
+    "Server Side Request Forgery/README.md"
   ]
 }
