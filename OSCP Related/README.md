@@ -3,7 +3,7 @@
 _Linux_
 
 ```bash
- echo " ";echo "uname -a:";uname -a;echo " ";echo "hostname:";hostname;echo " ";echo "id";id;echo " ";echo "ifconfig:";/sbin/ifconfig -a;echo " ";echo "proof:";cat /root/proof.txt 2>/dev/null; cat /Desktop/proof.txt 2>/dev/null;echo " "
+echo " ";echo "uname -a:";uname -a;echo " ";echo "hostname:";hostname;echo " ";echo "id";id;echo " ";echo "ifconfig:";/sbin/ifconfig -a;echo " ";echo "proof:";cat /root/proof.txt 2>/dev/null; cat /Desktop/proof.txt 2>/dev/null;echo " "
 ```
 
 _Windows_
@@ -17,6 +17,17 @@ _Windows_
 
 tips1: pspy发现的定时任务命令，可以用grep搜索一下，可能隐藏在某个脚本文件中。
 
+
+# Download Tool
+pspy64
+```bash
+wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy64
+```
+
+pspy32
+```bash
+wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy32
+```
 # Persistence
 
 _Crontab_

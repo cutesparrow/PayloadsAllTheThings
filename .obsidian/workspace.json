@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Inclusion/README.md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology and Resources/Network Discovery.md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap udp",
+                "query": "linpeas",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology and Resources/Network Discovery.md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology and Resources/Network Discovery.md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology and Resources/Network Discovery.md"
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md"
               }
             }
           }
@@ -163,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7af10506d537fd",
+  "active": "878da0f65f8e6132",
   "lastOpenFiles": [
-    "Methodology and Resources/Linux - Privilege Escalation.md",
-    "OSCP Related/Buffer Overflow Cheatsheet.md",
-    "File Inclusion/README.md",
-    "Server Side Request Forgery/README.md",
     "OSCP Related/README.md",
-    "Methodology and Resources/Linux - Persistence.md",
-    "Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "Methodology and Resources/Windows - Mimikatz.md",
-    "Methodology and Resources/Metasploit - Cheatsheet.md",
-    "Methodology and Resources/Active Directory Attack.md"
+    "Methodology and Resources/Windows - Privilege Escalation.md",
+    "Methodology and Resources/Active Directory Attack.md",
+    "File Inclusion/README.md",
+    "Methodology and Resources/Linux - Privilege Escalation.md",
+    "CONTRIBUTING.md",
+    "Methodology and Resources/Network Discovery.md",
+    "OSCP Related/Buffer Overflow Cheatsheet.md",
+    "Server Side Request Forgery/README.md",
+    "Methodology and Resources/Linux - Persistence.md"
   ]
 }
