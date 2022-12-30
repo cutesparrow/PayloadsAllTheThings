@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/cheatsheet .md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/cheatsheet .md",
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/cheatsheet .md"
+                "file": "Methodology and Resources/Linux - Privilege Escalation.md"
               }
             }
           }
@@ -161,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "878da0f65f8e6132",
+  "active": "af7af10506d537fd",
   "lastOpenFiles": [
+    "OSCP Related/cheatsheet .md",
     "Methodology and Resources/Linux - Persistence.md",
     "Server Side Request Forgery/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
@@ -171,7 +173,6 @@
     "Methodology and Resources/Network Pivoting Techniques.md",
     "Methodology and Resources/Active Directory Attack.md",
     "Methodology and Resources/Windows - Privilege Escalation.md",
-    "File Inclusion/README.md",
-    "CONTRIBUTING.md"
+    "File Inclusion/README.md"
   ]
 }
