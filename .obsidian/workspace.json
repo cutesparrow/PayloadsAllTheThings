@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "File Inclusion/README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "697b4d6131acb153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Inclusion/README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "LFI",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "File Inclusion/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "File Inclusion/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/README.md"
+                "file": "File Inclusion/README.md"
               }
             }
           }
@@ -162,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "878da0f65f8e6132",
+  "active": "697b4d6131acb153",
   "lastOpenFiles": [
+    "OSCP Related/README.md",
     "CORS Misconfiguration/README.md",
     "OSCP Related/cheatsheet .md",
-    "OSCP Related/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
     "Methodology and Resources/Linux - Persistence.md",
     "Server Side Request Forgery/README.md",
