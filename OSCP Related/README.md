@@ -16,6 +16,7 @@ _Windows_
 # Privilege Escalation
 
 tips1: pspy发现的定时任务命令，可以用grep搜索一下，可能隐藏在某个脚本文件中。
+tips2: 查看ls命令借助--full-time这个flag可以判断哪些文件，人为修改过
 
 
 # Download Tool
