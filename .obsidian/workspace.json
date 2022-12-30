@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "OSCP Related/README.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,15 +164,15 @@
   },
   "active": "878da0f65f8e6132",
   "lastOpenFiles": [
+    "CORS Misconfiguration/README.md",
     "OSCP Related/cheatsheet .md",
-    "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/README.md",
+    "Methodology and Resources/Linux - Privilege Escalation.md",
     "Methodology and Resources/Linux - Persistence.md",
     "Server Side Request Forgery/README.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
     "Methodology and Resources/Network Pivoting Techniques.md",
     "Methodology and Resources/Active Directory Attack.md",
-    "Methodology and Resources/Windows - Privilege Escalation.md",
-    "File Inclusion/README.md"
+    "Methodology and Resources/Windows - Privilege Escalation.md"
   ]
 }
