@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stty",
+                "query": "proof",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7af10506d537fd",
+  "active": "00004ac878efbff3",
   "lastOpenFiles": [
     "OSCP Related/README.md",
     "OSCP Related/cheatsheet .md",
