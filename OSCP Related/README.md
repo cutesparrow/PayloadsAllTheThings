@@ -29,6 +29,11 @@ pspy32
 ```bash
 wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy32
 ```
+
+linpeas
+```bash
+wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
+```
 # Persistence
 
 _Crontab_
