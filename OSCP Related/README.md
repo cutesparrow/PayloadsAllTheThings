@@ -13,11 +13,12 @@ _Windows_
 ```
 
 
-# Privilege Escalation
+# Some tips
 
 tips1: pspy发现的定时任务命令，可以用grep搜索一下，可能隐藏在某个脚本文件中。
 tips2: 查看ls命令借助--full-time这个flag可以判断哪些文件，人为修改过
 tips3: tmux session attach
+tips4: smb可以尝试上传reverse shell， 然后通过web触发哦，`不要将不同的服务割裂开看`
 
 # Download Tool
 pspy64

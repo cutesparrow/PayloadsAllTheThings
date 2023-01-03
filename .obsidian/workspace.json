@@ -49,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
-                "matchingCase": false,
+                "query": "stty",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -151,10 +151,10 @@
   },
   "active": "af7af10506d537fd",
   "lastOpenFiles": [
+    "OSCP Related/README.md",
+    "OSCP Related/cheatsheet .md",
     "File Inclusion/README.md",
     "CONTRIBUTING.md",
-    "OSCP Related/cheatsheet .md",
-    "OSCP Related/README.md",
     "CORS Misconfiguration/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
     "Methodology and Resources/Linux - Persistence.md",
