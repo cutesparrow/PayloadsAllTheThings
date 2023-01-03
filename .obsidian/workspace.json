@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "878da0f65f8e6132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Inclusion/README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "697b4d6131acb153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP Related/cheatsheet .md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af7af10506d537fd",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,17 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697b4d6131acb153",
+  "active": "af7af10506d537fd",
   "lastOpenFiles": [
-    "OSCP Related/README.md",
-    "OSCP Related/cheatsheet .md",
     "File Inclusion/README.md",
+    "CONTRIBUTING.md",
+    "OSCP Related/cheatsheet .md",
+    "OSCP Related/README.md",
     "CORS Misconfiguration/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
     "Methodology and Resources/Linux - Persistence.md",
     "Server Side Request Forgery/README.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "Methodology and Resources/Network Pivoting Techniques.md",
-    "Methodology and Resources/Active Directory Attack.md"
+    "Methodology and Resources/Network Pivoting Techniques.md"
   ]
 }
