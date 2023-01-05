@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "stty",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
