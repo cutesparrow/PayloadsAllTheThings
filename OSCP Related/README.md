@@ -19,6 +19,7 @@ tips1: pspy发现的定时任务命令，可以用grep搜索一下，可能隐�
 tips2: 查看ls命令借助--full-time这个flag可以判断哪些文件，人为修改过
 tips3: tmux session attach
 tips4: smb可以尝试上传reverse shell， 然后通过web触发哦，`不要将不同的服务割裂开看`
+tips5: 在home cache目录发现这个文件`motd.legal-displayed`考虑PAM提权。 https://www.exploit-db.com/exploits/14339. PAM 1.1.0 suffer privilege escalation vuln.
 
 # Download Tool
 pspy64
