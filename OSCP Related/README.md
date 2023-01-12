@@ -36,6 +36,11 @@ linpeas
 ```bash
 wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
 ```
+
+linwinpwn
+```bash
+git clone https://github.com/lefayjey/linWinPwn
+```
 # Persistence
 
 _Crontab_

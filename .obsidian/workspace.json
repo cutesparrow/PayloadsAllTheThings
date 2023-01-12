@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linpeas.sh",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
