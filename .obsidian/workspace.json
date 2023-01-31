@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transport",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/README.md",
+                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP Related/README.md"
+                "file": "Methodology and Resources/Metasploit - Cheatsheet.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "af7af10506d537fd",
   "lastOpenFiles": [
-    "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/README.md",
+    "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/cheatsheet .md",
     "Methodology and Resources/Cobalt Strike - Cheatsheet.md",
     "File Inclusion/README.md",
