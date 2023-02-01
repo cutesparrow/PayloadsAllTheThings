@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transport",
+                "query": "proof",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology and Resources/Metasploit - Cheatsheet.md",
+                "file": "OSCP Related/cheatsheet .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology and Resources/Metasploit - Cheatsheet.md"
+                "file": "OSCP Related/cheatsheet .md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "af7af10506d537fd",
   "lastOpenFiles": [
+    "Methodology and Resources/Metasploit - Cheatsheet.md",
     "OSCP Related/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
     "OSCP Related/cheatsheet .md",
@@ -159,7 +160,6 @@
     "CONTRIBUTING.md",
     "CORS Misconfiguration/README.md",
     "Methodology and Resources/Linux - Persistence.md",
-    "Server Side Request Forgery/README.md",
-    "Methodology and Resources/Reverse Shell Cheatsheet.md"
+    "Server Side Request Forgery/README.md"
   ]
 }
