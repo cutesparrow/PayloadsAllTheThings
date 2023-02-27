@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Related/cheatsheet .md",
+                "file": "OSCP Related/README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,22 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "forwarding",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0249251c1f703db8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSCP Related/README.md"
               }
             }
           },
@@ -87,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP Related/cheatsheet .md",
+                "file": "OSCP Related/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP Related/cheatsheet .md",
+                "file": "OSCP Related/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,19 +130,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "0249251c1f703db8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "OSCP Related/cheatsheet .md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,15 +151,15 @@
   },
   "active": "af7af10506d537fd",
   "lastOpenFiles": [
+    "Methodology and Resources/Network Pivoting Techniques.md",
     "Methodology and Resources/Metasploit - Cheatsheet.md",
+    "Methodology and Resources/Cobalt Strike - Cheatsheet.md",
+    "OSCP Related/Buffer Overflow Cheatsheet.md",
+    "OSCP Related/cheatsheet .md",
     "OSCP Related/README.md",
     "Methodology and Resources/Linux - Privilege Escalation.md",
-    "OSCP Related/cheatsheet .md",
-    "Methodology and Resources/Cobalt Strike - Cheatsheet.md",
     "File Inclusion/README.md",
     "CONTRIBUTING.md",
-    "CORS Misconfiguration/README.md",
-    "Methodology and Resources/Linux - Persistence.md",
-    "Server Side Request Forgery/README.md"
+    "CORS Misconfiguration/README.md"
   ]
 }
